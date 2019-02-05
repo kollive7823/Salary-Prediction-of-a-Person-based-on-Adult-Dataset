@@ -1,0 +1,1 @@
+# Salary-Prediction-of-a-Person-based-on-Adult-Dataset
