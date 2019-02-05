@@ -1,6 +1,6 @@
 # Salary-Prediction-of-a-Person-based-on-Adult-Dataset
 
-This paper is focused on building a
+This project is focused on building a
 predictive model on adult dataset by
 implementing various machine learning
 algorithms which can accurately identify
